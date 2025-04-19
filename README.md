@@ -1,6 +1,6 @@
 # Virtual-Classroom-Full-Stack
 
-````markdown
+
 # Project Setup Guide
 
 ## Overview
@@ -16,7 +16,7 @@ This project consists of a **backend** server and a **frontend** client applicat
    ```bash
    cd backend
    ```
-````
+
 
 3. Install required dependencies:
    ```bash
